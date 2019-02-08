@@ -11,25 +11,25 @@
 
 ---
 
-
 # Содержание
-1. [Кнопка пожертвований](#donation-button)
-2. [Баунти-кампании](#bounties)
-3. [Краудфандинг (проектный)](#crowdfunding-one-time)
-4. [Краудфандинг (регулярный)](#crowdfunding-recurring)
-5. [Книги и мерчендайз](#books-and-merchandise)
-6. [Реклама и спонсорство](#advertising--sponsorships)
-7. [Найм в компанию для работы над проектом](#get-hired-by-a-company-to-work-on-project)
-8. [Начать проект, будучи занятым в компании](#start-a-project-while-currently-employed)
-9. [Гранты](#grants)
-10. [Консалтинг](#consulting)
-11. [Платная поддержка](#paid-support)
-12. [SaaS (программное обеспечение как услуга)](#saas)
-13. [Копилефт + платная лицензия](#copyleft--paid-license)
-14. [Модель с открытым ядром](#open-core)
-15. [Фонды и консорциумы](#foundations--consortiums)
-16. [Венчурный капитал](#venture-capital)
-17. [Ограниченная лицензия](#restricted-license)
+
+1. [Кнопка "пожертвовать"](#%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D0%B0-%22%D0%BF%D0%BE%D0%B6%D0%B5%D1%80%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%22)
+2. [Баунти-кампании](#%D0%B1%D0%B0%D1%83%D0%BD%D1%82%D0%B8-%D0%BA%D0%B0%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)
+3. [Краудфандинг (проектный)](#%D0%BA%D1%80%D0%B0%D1%83%D0%B4%D1%84%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BD%D1%8B%D0%B9)
+4. [Краудфандинг (регулярный)](#%D0%BA%D1%80%D0%B0%D1%83%D0%B4%D1%84%D0%B0%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3-%D1%80%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D1%8B%D0%B9)
+5. [Книги и мерчендайз](#%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D0%BD%D0%B4%D0%B0%D0%B9%D0%B7)
+6. [Реклама и спонсорство](#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0-%D0%B8-%D1%81%D0%BF%D0%BE%D0%BD%D1%81%D0%BE%D1%80%D1%81%D1%82%D0%B2%D0%BE)
+7. [Найм в компанию для работы над проектом](#%D0%BD%D0%B0%D0%B9%D0%BC-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BD%D0%B0%D0%B4-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%BC)
+8. [Начать проект, будучи занятым в компании](#%D0%BD%D0%B0%D1%87%D0%B0%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-%D0%B1%D1%83%D0%B4%D1%83%D1%87%D0%B8-%D0%B7%D0%B0%D0%BD%D1%8F%D1%82%D1%8B%D0%BC-%D0%B2-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8)
+9. [Гранты](#%D0%B3%D1%80%D0%B0%D0%BD%D1%82%D1%8B)
+10. [Консалтинг](#%D0%BA%D0%BE%D0%BD%D1%81%D0%B0%D0%BB%D1%82%D0%B8%D0%BD%D0%B3)
+11. [Платная поддержка](#%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%BA%D0%B0)
+12. [SaaS (программное обеспечение как услуга)](#saas-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D0%BB%D1%83%D0%B3%D0%B0)
+13. [Копилефт + платная лицензия](#%D0%BA%D0%BE%D0%BF%D0%B8%D0%BB%D0%B5%D1%84%D1%82--%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F)
+14. [Модель с открытым ядром](#%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C-%D1%81-%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%BC-%D1%8F%D0%B4%D1%80%D0%BE%D0%BC)
+15. [Фонды и консорциумы](#%D1%84%D0%BE%D0%BD%D0%B4%D1%8B-%D0%B8-%D0%BA%D0%BE%D0%BD%D1%81%D0%BE%D1%80%D1%86%D0%B8%D1%83%D0%BC%D1%8B)
+16. [Венчурный капитал](#%D0%B2%D0%B5%D0%BD%D1%87%D1%83%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB)
+17. [Ограниченная лицензия](#%D0%BE%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F)
 
 ПРИЛОЖЕНИЕ: [Сделать вклад в это руководство](#contributing-to-this-guide) // [Лицензия и атрибуция](#license-and-attribution)  
 ПЕРЕВОДЫ: [Китайский традиционный(繁體中文)](https://github.com/jserv/lemonade-stand) // [Китайский упрощённый(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Итальянский(italiano)](https://github.com/dakk/lemonade-stand) // [Японский(日本語)](https://github.com/fumikito/lemonade-stand) // [Испанский(español)](https://github.com/fredbesan/lemonade-stand)
@@ -361,7 +361,7 @@
 * [Qt](https://www1.qt.io/faq/#_Toc_3)
 * [SQLite](https://www.sqlite.org/copyright.html)
 
-## Открытое ядро
+## Модель с открытым ядром
 
 *С моделью [open core](https://en.wikipedia.org/wiki/Open_core) некоторые части софта остаются свободными, в то время как другие являются проприетарными и доступны только платящим пользователям. Обычно это работает когда есть корпоративный спрос на проект.*
 

@@ -79,7 +79,6 @@
 
 #### Кейсы
 
-* [Bountysource](http://bountysource.com)
 * [Gitcoin](https://gitcoin.co/explorer)
 * [GitHub Bug Bounty Program](https://bounty.github.com/)
 * [Google Patch Rewards](https://www.google.com/about/appsecurity/patch-rewards/)
@@ -108,7 +107,6 @@
 * [Andrew Godwin + Django (личные усилия)](https://www.kickstarter.com/projects/andrewgodwin/schema-migrations-for-django)
 * [Dave Gandy + Font Awesome](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 * [GDAL Coordinate System Barn Raising](https://gdalbarn.com/)
-* [Michal Papis + Rvm (personal effort)](https://www.bountysource.com/teams/rvm/fundraiser)
 * [Monero Forum Funding System (FFS)](https://getmonero.org/forum-funding-system/)
 * [RESTful WP-CLI](https://poststatus.com/kickstarter-open-source-project/)
 * [ribasushi + CPAN (личные усилия)](https://www.tilt.com/tilts/year-of-ribasushi-help-him-focus-on-cpan-for-2016)
@@ -120,7 +118,7 @@
 #### Преимущества
 
 * Практически ни к чему не обязывает
-* Может быть юридически удобно для физических лиц [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Может быть юридически удобно для физических лиц [Patreon](https://patreon.com), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
 
 #### Недостатки
 
